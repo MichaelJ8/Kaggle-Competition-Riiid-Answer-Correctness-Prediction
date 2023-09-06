@@ -6,5 +6,4 @@ The test set performance was typically ~5% lower than the validation set perform
 models, or ensembled models, between decision tree type models and neural networks. I did  not have time to create a neural network, but a decision tree type model performed very well by itself.
 This would have put me in the top 25% of competitors. The key to this performance was the addition of a lagged result variable. The accuracy improves by 10%
 if the result of the previous question by the student(see competition description) was included, the lag(1) result being the most useful. 
-This notebook is not an example of my programming (it is very stream of consciousness and is not an example of a productionalized model),
-it is more of an example of feature engineering that resulted in very good results using only one type of model. 
+
